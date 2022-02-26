@@ -20,7 +20,7 @@
 ## Project Description
 
 <p align="justify">
-  This game was developed in HTML5, Javascript and CSS offered by Digital Innovation One (DIO). 
+  This spaceships game was developed in HTML5, Javascript and CSS offered by Digital Innovation One (DIO). 
 </p>
 
 ## Prerequisites
