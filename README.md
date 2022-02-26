@@ -3,7 +3,7 @@
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 [![made-with-html5](https://img.shields.io/badge/Made%20with%20HTML5-HTML5-blue)](https://dev.w3.org/html5/spec-LC/)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with%20CSS-CSS-blue)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[!license-MIT](https://img.shields.io/badge/license-MIT-green)
+![license-MIT](https://img.shields.io/badge/license-MIT-green)
 
 ### Topics
 
